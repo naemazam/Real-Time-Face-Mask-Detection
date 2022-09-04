@@ -28,7 +28,7 @@ Detecting Wearing Mask or Not – For this functionality the system detects if t
 # Output 
 
 
-#Super Visor
+# Super Visor
 
 Shuyin Xia (夏书银), Ph.D
 
